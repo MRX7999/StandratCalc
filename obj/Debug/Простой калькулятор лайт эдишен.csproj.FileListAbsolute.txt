@@ -1,0 +1,12 @@
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой калькулятор лайт эдишен.csprojAssemblyReference.cache
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой_калькулятор_лайт_эдишен.Form1.resources
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой_калькулятор_лайт_эдишен.Properties.Resources.resources
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой калькулятор лайт эдишен.csproj.GenerateResource.cache
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\bin\Debug\Простой калькулятор лайт эдишен.exe.config
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\bin\Debug\Простой калькулятор лайт эдишен.exe
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\bin\Debug\Простой калькулятор лайт эдишен.pdb
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\bin\Debug\MetroFramework.dll
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой калькулятор лайт эдишен.csproj.CopyComplete
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой калькулятор лайт эдишен.exe
+C:\Users\andrey\source\repos\Простой калькулятор лайт эдишен\obj\Debug\Простой калькулятор лайт эдишен.pdb
